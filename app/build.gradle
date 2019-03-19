@@ -32,8 +32,8 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     implementation 'com.android.support:design:28.0.0'
-    api project(':aop_annotation')
-    annotationProcessor project(':aop_compiler')
+    api project(':aop-annotation')
+    annotationProcessor project(':aop-compiler')
     //  kapt project(':aopcompiler')
     api project(':aspectj-annotation')
     api project(':aspectj-runtime')

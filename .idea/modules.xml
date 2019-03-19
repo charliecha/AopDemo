@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AopDemo.iml" filepath="$PROJECT_DIR$/.idea/AopDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aop_annotation/aop_annotation.iml" filepath="$PROJECT_DIR$/aop_annotation/aop_annotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aop_compiler/aop_compiler.iml" filepath="$PROJECT_DIR$/aop_compiler/aop_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-annotation/aop-annotation.iml" filepath="$PROJECT_DIR$/aop-annotation/aop-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-compiler/aop-compiler.iml" filepath="$PROJECT_DIR$/aop-compiler/aop-compiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

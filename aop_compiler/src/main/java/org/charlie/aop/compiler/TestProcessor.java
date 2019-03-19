@@ -1,10 +1,10 @@
-package org.charlie.aopcompiler;
+package org.charlie.aop.compiler;
 
 import com.google.auto.service.AutoService;
 import com.squareup.javapoet.JavaFile;
 import com.squareup.javapoet.MethodSpec;
 import com.squareup.javapoet.TypeSpec;
-import org.charlie.aopannotation.Test;
+import org.charlie.aop.annotation.Test;
 
 import javax.annotation.processing.AbstractProcessor;
 import javax.annotation.processing.Processor;

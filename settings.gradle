@@ -1,1 +1,1 @@
-include ':app', ':aopannotation', ':aopcompiler'
+include ':app', ':aop_annotation', ':aop_compiler'

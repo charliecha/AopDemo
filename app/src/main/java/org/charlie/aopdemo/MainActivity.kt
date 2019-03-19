@@ -7,7 +7,7 @@ import android.view.Menu
 import android.view.MenuItem
 
 import kotlinx.android.synthetic.main.activity_main.*
-import org.charlie.aopannotation.Test
+import org.charlie.aop.annotation.Test
 
 @Test
 class MainActivity : AppCompatActivity() {

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AopDemo.iml" filepath="$PROJECT_DIR$/.idea/AopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aopannotation/aopannotation.iml" filepath="$PROJECT_DIR$/aopannotation/aopannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aopcompiler/aopcompiler.iml" filepath="$PROJECT_DIR$/aopcompiler/aopcompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,1 +1,1 @@
-include ':app', ':aop_annotation', ':aop_compiler'
+include ':app', ':aop_annotation', ':aop_compiler', ':aspectj_annotation'
